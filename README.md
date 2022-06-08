@@ -1,8 +1,8 @@
-### Hello!
+# Hello! :raised_hand_with_fingers_splayed:
 ## I`m Sergey and I want to become an automation QA!
 ### Here you can see my work.
 
-### Welcome! 👋
+### Welcome!
 
 <!--
 **LutSerg/LutSerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
