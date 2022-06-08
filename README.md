@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LutSerg's GitHub stats](https://github-readme-stats.vercel.app/api?username=LutSerg&show_icons=true&theme=vue-dark)
+![LutSerg's GitHub stats](https://github-readme-stats.vercel.app/api?username=LutSerg&show_icons=true&theme=react)
